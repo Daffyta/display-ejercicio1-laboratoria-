@@ -1,7 +1,8 @@
 span {
-  display: block;
-  padding-bottom: 25px;
-  margin: 20px 600px;
+  display: inline-block;
+  /* padding-bottom: 25px; */
+  /* margin: 20px 600px; */
+  padding: 6px;
 }
 
 .amarillo{
@@ -10,5 +11,4 @@ span {
 
 .rojo{
   background-color: #ff0048;
-  border: solid 1px black;
 }
