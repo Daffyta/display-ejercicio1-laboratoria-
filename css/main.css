@@ -1,0 +1,13 @@
+span {
+  display: block;
+  padding-bottom: 25px;
+}
+
+.amarillo{
+  background-color: #f4ff00;
+}
+
+.rojo{
+  background-color: #ff0048;
+  border: solid 1px black;
+}
